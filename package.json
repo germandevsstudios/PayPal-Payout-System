@@ -1,0 +1,19 @@
+{
+  "name": "payment-system-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Germandevs Studios",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "child_process": "^1.0.2",
+    "crypto-js": "^4.1.1",
+    "express": "^4.18.1",
+    "fs": "^0.0.1-security",
+    "paypal-node-sdk": "^2.0.3"
+  }
+}
